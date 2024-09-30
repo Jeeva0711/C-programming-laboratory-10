@@ -1,0 +1,9 @@
+#include <studio.h>
+int main ()
+{
+printf("size of int: %u bytes/n", size of (int));
+printf("size of float: %u bytes/n", size of (float));
+printf("size of double: %u bytes/n",size of (double));
+printf("size of char: %u bytes/n" ,size of (char));
+return 0;
+}
